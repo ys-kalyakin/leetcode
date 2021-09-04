@@ -1,1 +1,34 @@
-# leetcode
+# Leetcode solutions 
+
+# Rust
+LeetCode link                                                                                                                   | Solution
+--------------------------------------------------------------------------------------------------------------------------------|---------------
+[Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | [Rust](./rust/src/two_sum/mod.rs)
+[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | [Rust](./rust/src/add_two_numbers/mod.rs)
+[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Rust](./rust/src/longest_substring_without_repeating_characters/mod.rs)
+[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                       | [Rust](./rust/src/median_of_two_sorted_arrays/mod.rs)
+[Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                               | [Rust](./rust/src/reverse_integer/mod.rs)
+[Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                           | [Rust](./rust/src/palindrome_number/mod.rs)
+[Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | [Rust](./rust/src/search_insert_position/mod.rs)
+[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)                           | [Rust](./rust/src/two_sum_2/mod.rs)
+[Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                     | [Rust](./rust/src/rotate_array/mod.rs)
+[First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                           | [Rust](./rust/src/first_bad_version/mod.rs)
+[Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                       | [Rust](./rust/src/move_zeroes/mod.rs)
+[Reverse String](https://leetcode.com/problems/reverse-string/)                                                                 | [Rust](./rust/src/reverse_string/mod.rs)
+[Reverse Words in String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                     | [Rust](./rust/src/reverse_words_in_string_3/mod.rs)
+[Binary Search](https://leetcode.com/problems/binary-search)                                                                    | [Rust](./rust/src/binary_search/mod.rs)
+[Squares of Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)                                              | [Rust](./rust/src/squares_of_sorted_array/mod.rs)
+[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                           | [Rust](./rust/src/middle_of_the_linked_list/mod.rs)
+[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                             | [Rust](./rust/src/remove_nth_node_from_end_of_list/mod.rs)
+[Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                                   | [Rust](./rust/src/permutation_in_string/mod.rs)
+[Flood Fill](https://leetcode.com/problems/flood-fill/)                                                                         | [Rust](./rust/src/flood_fill/mod.rs)
+[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                         | [Rust](./rust/src/max_area_of_island/mod.rs)
+[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)                                                 | [Rust](./rust/src/merge_two_binary_trees/mod.rs)
+[01 Matrix](https://leetcode.com/problems/01-matrix/)                                                                           | [Rust](./rust/src/matrix_01/mod.rs)
+[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                               | [Rust](./rust/src/rotting_oranges/mod.rs)
+[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | [Rust](./rust/src/merge_two_sorted_lists/mod.rs)
+[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                       | [Rust](./rust/src/reverse_linked_list/mod.rs)
+[Combinations](https://leetcode.com/problems/combinations/)                                                                     | [Rust](./rust/src/combinations/mod.rs)
+[Permutations](https://leetcode.com/problems/permutations/)                                                                     | [Rust](./rust/src/permutations/mod.rs)
+[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)                                               | [Rust](./rust/src/letter_case_permutation/mod.rs)
+[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                               | [Rust](./rust/src/climbing_stairs/mod.rs)
