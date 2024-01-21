@@ -3,7 +3,7 @@
 # Rust
 LeetCode link                                                                                                                   | Solution
 --------------------------------------------------------------------------------------------------------------------------------|---------------
-[Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | [Rust](./rust/src/two_sum/mod.rs)
+[Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | [Rust](./rust/src/two_sum/mod.rs) [Scala](./src/main/scala/TwoSum.scala)
 [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | [Rust](./rust/src/add_two_numbers/mod.rs)
 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Rust](./rust/src/longest_substring_without_repeating_characters/mod.rs)
 [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                       | [Rust](./rust/src/median_of_two_sorted_arrays/mod.rs)
@@ -32,3 +32,4 @@ LeetCode link                                                                   
 [Permutations](https://leetcode.com/problems/permutations/)                                                                     | [Rust](./rust/src/permutations/mod.rs)
 [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)                                               | [Rust](./rust/src/letter_case_permutation/mod.rs)
 [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                               | [Rust](./rust/src/climbing_stairs/mod.rs)
+[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                       | [Scala](./src/main/scala/RemoveDuplicatesFromSortedArray.scala)
